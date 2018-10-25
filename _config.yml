@@ -5,7 +5,7 @@ header-img: img/desktop.jpg
 email: zjx1120122741@163.com
 description: "Every failure is leading towards success."
 keyword: "ZJ, ZJ Blog, zhangji"
-url: "http://jixiaZhang.github.io"          # your host, for absolute URL
+url: "https://jixiaZhang.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 #github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
 
